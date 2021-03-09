@@ -1,0 +1,4 @@
+2021-02-24 14:12:36,784 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {resize_image()} < Input image fail ! >
+2021-02-24 14:12:36,792 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {draw_circles()} < OpenCV(4.4.0) C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-9d_dfo3_\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+ >
+2021-02-24 14:12:36,792 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {main_CCT()} < cannot unpack non-iterable NoneType object >

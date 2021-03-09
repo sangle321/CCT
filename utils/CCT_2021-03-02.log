@@ -1,0 +1,12 @@
+2021-03-02 14:28:53,400 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {resize_image()} < 'NoneType' object has no attribute 'shape' >
+2021-03-02 14:28:53,410 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {draw_circles()} < OpenCV(4.5.1) /tmp/pip-req-build-ms668fyv/opencv/modules/imgproc/src/color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+ >
+2021-03-02 14:28:53,410 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {main_CCT()} < cannot unpack non-iterable NoneType object >
+2021-03-02 14:30:10,961 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {resize_image()} < 'NoneType' object has no attribute 'shape' >
+2021-03-02 14:30:10,961 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {draw_circles()} < OpenCV(4.5.1) /tmp/pip-req-build-ms668fyv/opencv/modules/imgproc/src/color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+ >
+2021-03-02 14:30:10,961 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {main_CCT()} < cannot unpack non-iterable NoneType object >
+2021-03-02 14:30:17,040 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {resize_image()} < 'NoneType' object has no attribute 'shape' >
+2021-03-02 14:30:17,040 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {draw_circles()} < OpenCV(4.5.1) /tmp/pip-req-build-ms668fyv/opencv/modules/imgproc/src/color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+ >
+2021-03-02 14:30:17,040 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {main_CCT()} < cannot unpack non-iterable NoneType object >

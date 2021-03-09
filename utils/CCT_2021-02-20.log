@@ -1,0 +1,5 @@
+2021-02-20 14:12:06,633 INFO: [CCT] Error
+2021-02-20 14:12:07,194 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {CountFrequency()} < division by zero >
+2021-02-20 14:12:07,194 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {get_loc_oxy()} < 'NoneType' object is not subscriptable >
+2021-02-20 14:12:07,194 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {draw_circles()} < cannot unpack non-iterable NoneType object >
+2021-02-20 14:12:07,194 INFO: [CCT] [CCT_CMD] [REQUEST_USER]] ERROR {main_CCT()} < cannot unpack non-iterable NoneType object >
