@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 from skimage.filters import threshold_yen, threshold_otsu, threshold_li, try_all_threshold
 
-image = cv2.imread("samples/img4.png", 0)
+image = cv2.imread("samples/img.jpeg", 0)
 
 from skimage.filters import try_all_threshold
 
